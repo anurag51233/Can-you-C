@@ -1,2 +1,2 @@
 # Can-you-C
-C
+Chat app
